@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.box{
+    height: 350px;
+    background-color: rgb(250, 130, 1);
+}
+.box1{
+    margin-top: 30px;
+    margin-left: 650px;
+    background-color: white;
+    display: inline-block;
+    border: 1px solid;
+    border-radius: 12px;
+    padding: 25px;
+}
+h1{
+    padding: 45px;
+    margin-left: 500px;
+    color: white;
+}
+h2{
+    margin-bottom: 25px;
+    margin-left: 700px;
+    color: white;
+}
+em{
+    margin-left: 50px;
+    display: inline-flex;
+    color: white;
+}
+
+hr{
+    color: rgb(255, 255, 255);
+    margin-bottom: 50px;
+    margin-left: 650px;
+}
